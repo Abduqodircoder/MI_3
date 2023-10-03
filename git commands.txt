@@ -1,0 +1,12 @@
+git init
+git status
+git add
+git commit -m "<your message>"
+git push origin main
+git pull origin main
+git remote -v
+git remote add origin <your link>
+git branch
+git checkout <branch>
+git checkout -b master
+git branch -M <your changed name>
